@@ -1,0 +1,2 @@
+Python server-side code to store a list of favorite movies, including box art imagery and a movie trailer URL. Data is
+served as a web page allowing visitors to review their movies and watch the trailers.
